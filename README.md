@@ -1,4 +1,4 @@
-# Corporate Bankruptcy Prediction
+# Company Bankruptcy Prediction
 
 ## Overview
 This project predicts corporate bankruptcy using a high-dimensional and imbalanced financial dataset containing 95 financial indicators. The goal is to evaluate and compare multiple machine learning models while analyzing their behavior using appropriate metrics for imbalanced classification.
